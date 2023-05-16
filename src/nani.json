@@ -1,0 +1,17 @@
+{
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "cheesekun@cheesekun.me",
+        "Name": "Gyuhwan Park★"
+      }
+    ],
+    "Description": "",
+    "EnabledByDefault": false,
+    "Icon": "user-home",
+    "License": "GPL",
+    "Name": "Nani?!",
+    "Version": "0.1.0",
+    "Website": "https://github.com/unstabler/Nani"
+  }
+}
